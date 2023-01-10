@@ -1,7 +1,5 @@
 package com.bridgelabz.basiccoreprogram;
-
 import java.util.Scanner;
-
 public class LargestOfThreeNumbers {
 
 	public static void main(String[] args) {
