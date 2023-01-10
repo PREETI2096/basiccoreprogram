@@ -1,7 +1,5 @@
 package com.bridgelabz.basiccoreprogram;
-
 import java.util.Scanner;
-
 public class HarmonicNumber {
 
 	public static void main(String[] args) {
@@ -15,5 +13,4 @@ public class HarmonicNumber {
 		System.out.println("Nth Harmonic Num : " + sum);
 
 	}
-
 }
