@@ -1,7 +1,5 @@
 package com.bridgelabz.basiccoreprogram;
-
 import java.util.Scanner;
-
 public class QuotientReminder {
 
 	public static void main(String[] args) {
