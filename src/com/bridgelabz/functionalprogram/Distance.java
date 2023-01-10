@@ -15,8 +15,7 @@ public class Distance {
 		
 		double length = Math.sqrt( Math.pow(x, 2) + Math.pow(y, 2));
 		
-		System.out.println(" The distance of the point from the origin is: " + length);
-		
+		System.out.println(" The distance of the point from the origin is: " + length);		
 		scan.close();
 	}
 }
