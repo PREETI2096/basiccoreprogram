@@ -1,7 +1,5 @@
 package com.bridgelabz.functionalprogram;
-
 import java.util.Scanner;
-
 public class WindChill {
 
 	public static void main(String[] args) {
