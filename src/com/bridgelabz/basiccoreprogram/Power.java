@@ -1,7 +1,5 @@
 package com.bridgelabz.basiccoreprogram;
-
 import java.util.Scanner;
-
 public class Power {
 
 	public static void main(String[] args) {
@@ -12,5 +10,4 @@ public class Power {
 		System.out.println("power of 2^" + number + " is  :"+ (Math.pow(2, number)));
 
 	}
-
 }
